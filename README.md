@@ -95,4 +95,4 @@ On constate que, lors des 10 premiers et derniers 'epochs', la précision ('accu
 
 ## Remerciements  
 
-Merci à Kaggle pour le jeu de données **Titanic - Machine Learning from Disaster**.  
+Merci à Kaggle pour le jeu de données **Titanic - Machine Learning from Disaster**
