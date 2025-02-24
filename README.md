@@ -87,9 +87,11 @@ python main.py
 
 ## Exemples de Résultats  
 
-Inclure ici quelques graphiques ou captures d'écran montrant les prédictions ou les performances du modèle (facultatif).  
-
+On constate que, lors des 10 premiers et derniers 'epochs', la précision ('accuracy') et la fonction de perte ('loss') se sont continuellement améliorées, aussi bien pendant l'entraînement que durant la phase de validation ('validation split'). Cela indique une convergence progressive du modèle vers des performances optimales.
 ---
+![first-10-epochs](https://github.com/user-attachments/assets/5d09904e-5f32-4051-8e5c-d79cc51ff068)
+
+![last-10-epochs](https://github.com/user-attachments/assets/c3c6f0aa-e533-401e-aba6-68ab7e13af67)
 
 ## Remerciements  
 
